@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99dcfd5f-8e4b-4421-b4ce-ca10d2de8b92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ch4" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRUZzrZKVigtdv5gqYz7T59qrJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WarREDUXstupidEdition" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogg-Sothoth\Desktop\Code\ch4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.cpuJob">
+    <configuration name="DequeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6.DequeExample" />
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch9.PriorityQExample" />
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="War" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7.War" />
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpuJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.cpuJob" />
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7.homework5" />
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cpuJob" />
+        <item itemvalue="Application.PriorityQExample" />
+        <item itemvalue="Application.homework5" />
+        <item itemvalue="Application.War" />
+        <item itemvalue="Application.DequeExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99dcfd5f-8e4b-4421-b4ce-ca10d2de8b92" name="Default Changelist" comment="" />
+      <created>1581008460077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581008460077</updated>
+      <workItem from="1581008465197" duration="1469000" />
+      <workItem from="1581042838196" duration="11000" />
+      <workItem from="1581612737707" duration="2928000" />
+      <workItem from="1582043050142" duration="4325000" />
+      <workItem from="1582216540628" duration="3072000" />
+      <workItem from="1582648259805" duration="1564000" />
+      <workItem from="1582820684025" duration="1931000" />
+      <workItem from="1583253669907" duration="3562000" />
+      <workItem from="1583327003995" duration="4544000" />
+      <workItem from="1583410764468" duration="8432000" />
+      <workItem from="1583855306670" duration="219000" />
+      <workItem from="1584026335756" duration="1690000" />
+      <workItem from="1584132053870" duration="187000" />
+      <workItem from="1585668094891" duration="1460000" />
+      <workItem from="1585703134686" duration="4000" />
+      <workItem from="1585787944525" duration="21000" />
+      <workItem from="1585841558556" duration="3789000" />
+      <workItem from="1586211388856" duration="601000" />
+      <workItem from="1586272198118" duration="3886000" />
+      <workItem from="1586444862434" duration="13725000" />
+      <workItem from="1586876887518" duration="1231000" />
+      <workItem from="1587050518636" duration="1147000" />
+      <workItem from="1587654877277" duration="2953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1585845323367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585845323367" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586480085755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586480085755" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1586275156512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586275156512" />
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom" timestamp="1586480947731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586480947731" />
+    <state width="1323" height="193" key="GridCell.Tab.0.center" timestamp="1586480947731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586480947731" />
+    <state width="1323" height="193" key="GridCell.Tab.0.left" timestamp="1586480947731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586480947731" />
+    <state width="1323" height="193" key="GridCell.Tab.0.right" timestamp="1586480947731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586480947731" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587655763398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587655763398" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587668888576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587668888576" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586477148930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586477148930" />
+  </component>
+</project>
